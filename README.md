@@ -1,24 +1,25 @@
 
-#Pomodoro App
+#### **Pomodoro App**
 
-To view in your browser [http://localhost:3000](http://localhost:3000)
+## **To view in your browser** [http://localhost:3000](http://localhost:3000)
+
 A modern Pomodoro Timer Application built with React.js. This app helps users manage their productivity using the Pomodoro Technique, featuring customizable timers, a progress bar, and a to-do list for task tracking.
 
-#Features
+#### **Features**
 
-Timer Settings:
+##Timer Settings:
 Three customizable timers: Work (25 minutes), Short Break (5 minutes), and Long Break (15 minutes).
 Circular progress bar around the timer for a visual countdown.
 Labels indicating the current timer mode.
-To-Do List:
+##To-Do List:
 Add and track tasks.
 Mark tasks as completed with a strikethrough for clear visualization.
 Persistent task list across sessions (optional feature for future improvements).
-Audio Notification:
+##Audio Notification:
 Plays a ringtone when the timer reaches zero.
-Responsive Design:
+##Responsive Design:
 Styled for both desktop and mobile views.
-Modern and accessible user interface with a royal purple color theme
+Modern and accessible user interface
 
 
 
