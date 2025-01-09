@@ -1,8 +1,6 @@
 
 # **Pomodoro App**
 
-#### **To view demo**
-
 A modern Pomodoro Timer Application built with React.js. This app helps users manage their productivity using the Pomodoro Technique, featuring customizable timers, a progress bar, and a to-do list for task tracking.
 
 ## **Features**
